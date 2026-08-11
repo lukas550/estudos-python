@@ -51,7 +51,7 @@ Em breve — os projetos serão adicionados aqui conforme forem sendo desenvolvi
 
 | Projeto | Descrição | Tópicos abordados | Status |
 |---------|-----------|-------------------|--------|
-| — | — | — | — |
+| [Agenda de Contatos](exercicios-de-manipulacao-de-arquivos/ex001.py) | Agenda simples via terminal com leitura, escrita e remoção de contatos em arquivo `.txt` | Manipulação de arquivos, funções, loops, tratamento de erros | Concluído |
 
 ---
 
