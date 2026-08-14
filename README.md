@@ -29,7 +29,8 @@ Acompanhe minha trilha de estudos. Os tópicos marcados já foram concluídos:
 
 ### Manipulação de Arquivos
 - [x] Leitura e escrita de arquivos `.txt`
-- [ ] Formato JSON e biblioteca `json`
+- [x] Formato JSON — estrutura, tipos de dados e modelagem
+- [ ] Biblioteca `json` do Python
 - [ ] Manipulação de arquivos `.json`
 
 ### Orientação a Objetos (POO)
@@ -47,11 +48,10 @@ Acompanhe minha trilha de estudos. Os tópicos marcados já foram concluídos:
 
 ## Mini Projetos & Exercícios
 
-Em breve — os projetos serão adicionados aqui conforme forem sendo desenvolvidos.
-
-| Projeto | Descrição | Tópicos abordados | Status |
+| Exercício | Descrição | Tópicos abordados | Status |
 |---------|-----------|-------------------|--------|
-| [Agenda de Contatos](exercicios-de-manipulacao-de-arquivos/ex001.py) | Agenda simples via terminal com leitura, escrita e remoção de contatos em arquivo `.txt` | Manipulação de arquivos, funções, loops, tratamento de erros | Concluído |
+| [Agenda de Contatos](exercicios-de-manipulacao-de-arquivos/ex001/ex001.py) | Agenda simples via terminal com leitura, escrita e remoção de contatos em arquivo `.txt` | Manipulação de arquivos, funções, loops, tratamento de erros | Concluído |
+| [Exercícios de JSON](exercicios-de-manipulacao-de-arquivos/ex002/) | Modelagem de dados em formato JSON — contatos, produtos, pedidos, configurações e boas práticas de estrutura | Formato JSON, tipos de dados, modelagem de arrays e objects | Concluído |
 
 ---
 
