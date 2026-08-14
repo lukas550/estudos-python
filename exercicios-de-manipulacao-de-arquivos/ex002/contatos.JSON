@@ -1,0 +1,16 @@
+{
+    "contatos": [
+        {
+            "nome": "Lukas",
+            "telefone": "859XXXXXXXX",
+            "ativo": true,
+            "email": "xd3433660@gmail.com"
+        },
+        {
+            "nome": "André",
+            "telefone": "859XXXXXXXX",
+            "ativo": false,
+            "email": "andreresenhas@gmail.com"
+        }
+    ]
+}

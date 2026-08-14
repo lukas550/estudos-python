@@ -1,0 +1,12 @@
+{
+    "produto": "nome_do_produto1",
+    "preco": 150.90,
+    "estoque": 50,
+    "disponivel": true,
+    "categorias": ["categoria1", "categoria2", "categoria3"],
+    "dimensoes": {
+        "largura": 30.5,
+        "altura": 1.35,
+        "peso": 1.5
+    }
+}

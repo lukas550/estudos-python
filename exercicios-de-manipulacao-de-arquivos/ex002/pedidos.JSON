@@ -1,0 +1,38 @@
+{
+    "pedidos": [
+        {
+            "id": 99999999999,
+            "data": "18/09/2026",
+            "concluido": false,
+            "itens_comprados": [
+                {
+                    "produto": "nome_do_produto",
+                    "quantidade": 20
+                },
+                {
+                    "produto": "nome_do_produto",
+                    "quantidade": 10
+                }
+            ]
+        },
+        {
+            "id": 88888888888,
+            "data": "06/09/2026",
+            "concluido": true,
+            "itens_comprados": [
+                {
+                    "produto": "nome_do_produto",
+                    "quantidade": 50
+                },
+                {
+                    "produto": "nome_do_produto",
+                    "quantidade": 67
+                },
+                {
+                    "produto": "nome_do_produto",
+                    "quantidade": 54
+                }
+            ]
+        }
+    ]
+}
