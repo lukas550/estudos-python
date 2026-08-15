@@ -1,6 +1,6 @@
 # estudos-python
 
-Repositório dedicado à minha jornada de aprendizado em Python — do zero ao domínio da linguagem e, futuramente, à área de Inteligência Artificial e Machine Learning.
+Repositório dedicado à minha jornada de aprendizado em Python — do zero à Engenharia de IA.
 
 ---
 
@@ -52,6 +52,44 @@ Acompanhe minha trilha de estudos. Os tópicos marcados já foram concluídos:
 - [ ] PEP 8 — guia de estilo Python
 - [ ] Docstrings e documentação de código
 - [ ] Organização de projetos e nomenclatura
+
+---
+
+## Próximas etapas — AI Engineering
+
+Com a base de Python concluída, o foco passa a ser construir sistemas que utilizam modelos de IA:
+
+### Python Avançado + Fundamentos de Sistemas
+- [ ] Decorators, context managers, generators
+- [ ] Type hints e dataclasses
+- [ ] Concorrência com `asyncio` e `async/await`
+- [ ] Consumo de APIs REST (`requests`, `httpx`)
+- [ ] Variáveis de ambiente e segurança de credenciais (`python-dotenv`)
+
+### LLMs na Prática
+- [ ] APIs de LLMs — Anthropic (Claude) e OpenAI
+- [ ] Prompt engineering — system prompts, few-shot, chain-of-thought
+- [ ] Function calling / tool use
+- [ ] Structured outputs
+- [ ] Streaming de respostas
+- [ ] Gerenciamento de contexto e histórico de conversa
+
+### RAG (Retrieval-Augmented Generation)
+- [ ] Embeddings — conceito e funcionamento
+- [ ] Bancos vetoriais — Chroma (local) e Pinecone (cloud)
+- [ ] Pipeline RAG completo: chunking → embedding → retrieval → geração
+
+### Agentes
+- [ ] Conceito de agente: raciocínio + ferramentas + memória
+- [ ] Construção de agentes com tool use nativo
+- [ ] Memória de curto e longo prazo
+- [ ] Multi-agentes
+
+### Deploy e Produção
+- [ ] FastAPI — criar APIs para expor sistemas de IA
+- [ ] Docker — containerizar aplicações
+- [ ] Deploy em cloud (Railway, Render ou AWS)
+- [ ] Observabilidade — logs e monitoramento de custos de LLM
 
 ---
 
