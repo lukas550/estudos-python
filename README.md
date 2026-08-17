@@ -38,7 +38,7 @@ Acompanhe minha trilha de estudos. Os tópicos marcados já foram concluídos:
 
 ### Módulos e Bibliotecas
 - [ ] Importação de módulos e uso da biblioteca padrão
-- [ ] Criação de módulos próprios
+- [x] Criação de módulos próprios
 - [ ] Gerenciadores de pacotes (`pip`) e ambientes virtuais (`venv`)
 - [ ] Bibliotecas de terceiros
 
