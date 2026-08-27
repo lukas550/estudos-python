@@ -37,7 +37,7 @@ Acompanhe minha trilha de estudos. Os tópicos marcados já foram concluídos:
 - [ ] Manipulação de arquivos `.json`
 
 ### Módulos e Bibliotecas
-- [ ] Importação de módulos e uso da biblioteca padrão
+- [x] Importação de módulos e uso da biblioteca padrão
 - [x] Criação de módulos próprios
 - [ ] Gerenciadores de pacotes (`pip`) e ambientes virtuais (`venv`)
 - [ ] Bibliotecas de terceiros
@@ -109,6 +109,7 @@ Além dos exercícios deste repositório, desenvolvi projetos separados durante 
 - [jogo-de-adivinhacao](https://github.com/lukas550/jogo-de-adivinhacao) — Jogo de terminal com níveis de dificuldade, dicas e estatísticas de sessão
 - [gerenciador-escolar](https://github.com/lukas550/gerenciador-escolar) — Sistema de cadastro, edição e relatório de alunos com cálculo automático de médias
 - [sistema-gerenciador-de-estoque](https://github.com/lukas550/sistema-gerenciador-de-estoque) — CRUD de produtos em estoque com relatório financeiro (refatorado)
+- [gerenciador-de-tarefas](https://github.com/lukas550/gerenciador-de-tarefas) — Sistema de gerenciamento de tarefas via terminal, com arquitetura modular (pacote `core`) e persistência em arquivo `.txt`
 
 ---
 
