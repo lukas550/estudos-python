@@ -1,0 +1,14 @@
+{
+    "id": 67,
+    "nome": "PC Gamer",
+    "configuracoes": {
+            "cpu": "Intel Core i5-12400F",
+            "gpu": "NVIDIA GeForce RTX 3060",
+            "ram_instalada": 16,
+            "armazenamento": 480
+        },
+    "preco": 2499.99,
+    "estoque": 5,
+    "disponivel": true,
+    "tags": ["eletrônico", "promoção"] 
+}

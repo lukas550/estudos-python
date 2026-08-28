@@ -1,0 +1,7 @@
+{
+    "nome": "Um nome",
+    "idade": 20,
+    "email": "umemail@gmail.com",
+    "ativo": true,
+    "foto_de_perfil": null
+}

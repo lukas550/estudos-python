@@ -1,0 +1,14 @@
+{
+    "nome": "Uma Pessoa",
+    "cpf": "xxx.xxx-xxx-xx",
+    "data_de_nascimento": "2000-01-01",
+    "endereco": {
+        "rua": "Uma rua qualquer",
+        "numero": 67,
+        "complemento": null,
+        "cidade": "Uma cidade",
+        "estado": "Um estado",
+        "cep": "xxxxx-xx"
+    },
+    "lista_de_telefones": ["(85) 99999-0000", "(85) 98888-0000"]
+}

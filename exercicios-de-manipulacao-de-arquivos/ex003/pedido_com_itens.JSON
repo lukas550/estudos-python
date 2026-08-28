@@ -1,0 +1,23 @@
+{
+    "id_do_pedido": 3201,
+    "data": "2025-06-09",
+    "status": "pendente",
+    "itens": [
+        {
+            "nome_do_produto": "Arroz",
+            "quantidade": 100,
+            "preço_unitario": 5.50
+        },
+        {
+            "nome_do_produto": "Feijão",
+            "quantidade": 50,
+            "preço_unitario": 4.30
+        },
+        {
+            "nome_do_produto": "Macarrão",
+            "quantidade": 60,
+            "preço_unitario": 3.20
+        }
+    ],
+    "valor_total": 957.00
+}
