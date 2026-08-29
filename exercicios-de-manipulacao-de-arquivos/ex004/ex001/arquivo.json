@@ -1,0 +1,7 @@
+{
+    "nome": "Lukas",
+    "idade": 13,
+    "skills": ["Python", "Git"],
+    "ativo": true,
+    "saldo": null
+}
