@@ -1,3 +1,4 @@
+# Métodos utilizados
 import json
 
 with open("arquivo.json", "r", encoding="utf-8") as arquivo_json:
