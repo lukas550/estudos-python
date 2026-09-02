@@ -8,7 +8,7 @@ Repositório dedicado à minha jornada de aprendizado em Python — do zero à E
 
 Sou Lukas, desenvolvedor em formação. Este repositório é o meu diário de estudos público: aqui documento cada etapa do meu aprendizado em Python, desde os fundamentos até projetos mais complexos.
 
-O objetivo é evoluir de forma consistente e transparente — mostrando não só o código final, mas toda a progressão até chegar lá. Cada tópico concluído representa conceitos aplicados em código real, não apenas teoria lida.
+O objetivo é evoluir de forma consistente e transparente, mostrando não só o código final, mas toda a progressão até chegar lá. Cada tópico concluído representa conceitos aplicados em código real, não apenas teoria lida.
 
 ---
 
@@ -33,8 +33,8 @@ Acompanhe minha trilha de estudos. Os tópicos marcados já foram concluídos:
 ### Manipulação de Arquivos
 - [x] Leitura e escrita de arquivos `.txt`
 - [x] Formato JSON — estrutura, tipos de dados e modelagem
-- [ ] Biblioteca `json` do Python
-- [ ] Manipulação de arquivos `.json`
+- [x] Biblioteca `json` do Python
+- [x] Manipulação de arquivos `.json`
 
 ### Módulos e Bibliotecas
 - [x] Importação de módulos e uso da biblioteca padrão
@@ -59,7 +59,7 @@ Acompanhe minha trilha de estudos. Os tópicos marcados já foram concluídos:
 
 Com a base de Python concluída, o foco passa a ser construir sistemas que utilizam modelos de IA:
 
-### Python Avançado + Fundamentos de Sistemas
+### Python Avançado e Fundamentos de Sistemas
 - [ ] Decorators, context managers, generators
 - [ ] Type hints e dataclasses
 - [ ] Concorrência com `asyncio` e `async/await`
@@ -80,16 +80,36 @@ Com a base de Python concluída, o foco passa a ser construir sistemas que utili
 - [ ] Pipeline RAG completo: chunking → embedding → retrieval → geração
 
 ### Agentes
-- [ ] Conceito de agente: raciocínio + ferramentas + memória
+- [ ] Conceito de agente: raciocínio, ferramentas e memória
 - [ ] Construção de agentes com tool use nativo
 - [ ] Memória de curto e longo prazo
-- [ ] Multi-agentes
+- [ ] Multiagentes
 
 ### Deploy e Produção
 - [ ] FastAPI — criar APIs para expor sistemas de IA
 - [ ] Docker — containerizar aplicações
-- [ ] Deploy em cloud (Railway, Render ou AWS)
+- [ ] Deploy em nuvem (Railway, Render ou AWS)
 - [ ] Observabilidade — logs e monitoramento de custos de LLM
+
+---
+
+## Estrutura do Repositório
+
+```
+manipulacao-de-arquivos/
+├── manipulacao-em-txt/
+│   └── ex001/              # leitura e escrita em arquivos .txt
+├── manipulacao-em-json/
+│   └── ex004/               # leitura e escrita de arquivos .json
+│       ├── ex001/
+│       ├── ex002/
+│       └── ex003/
+└── modelagem-json/
+    ├── ex001/                # modelagem de dados em JSON
+    └── ex002/
+modulos-e-bibliotecas/
+└── ex001/                    # criação e importação de módulo próprio
+```
 
 ---
 
@@ -97,8 +117,10 @@ Com a base de Python concluída, o foco passa a ser construir sistemas que utili
 
 | Exercício | Tipo | Descrição | Tópicos abordados | Status |
 |-----------|------|-----------|-------------------|--------|
-| [Agenda de Contatos](exercicios-de-manipulacao-de-arquivos/ex001/ex001.py) | Mini-projeto | Agenda simples via terminal com leitura, escrita e remoção de contatos em arquivo `.txt` | Manipulação de arquivos, funções, loops, tratamento de erros | Concluído |
-| [Exercícios de JSON](exercicios-de-manipulacao-de-arquivos/ex002/) | Exercício | Modelagem de dados em formato JSON — contatos, produtos, pedidos, configurações e boas práticas de estrutura | Formato JSON, tipos de dados, modelagem de arrays e objetos | Concluído |
+| [Agenda de Contatos](manipulacao-de-arquivos/manipulacao-em-txt/ex001/ex001.py) | Mini-projeto | Agenda simples via terminal com leitura, escrita e remoção de contatos em arquivo `.txt` | Manipulação de arquivos, funções, loops, tratamento de erros | Concluído |
+| [Modelagem de Dados em JSON](manipulacao-de-arquivos/modelagem-json/) | Exercícios | Modelagem de dados em formato JSON — contatos, produtos, pedidos, configurações e boas práticas de estrutura | Formato JSON, tipos de dados, modelagem de arrays e objetos | Concluído |
+| [Manipulação de Arquivos JSON](manipulacao-de-arquivos/manipulacao-em-json/) | Exercícios | Leitura e escrita de arquivos `.json` com a biblioteca `json`, incluindo conversão entre objetos Python e JSON | Biblioteca `json`, manipulação de arquivos, tratamento de erros | Concluído |
+| [Módulo Próprio — Saudação](modulos-e-bibliotecas) | Exercícios | Criação de módulos próprios e importações de módulos, importações de bibliotecas padrões e organizaçao de código | Criação de módulos, importação, organização de código | Concluído |
 
 ---
 
