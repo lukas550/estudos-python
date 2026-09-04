@@ -42,6 +42,10 @@ Acompanhe minha trilha de estudos. Os tópicos marcados já foram concluídos:
 - [ ] Gerenciadores de pacotes (`pip`) e ambientes virtuais (`venv`)
 - [ ] Bibliotecas de terceiros
 
+### Estruturas de Dados Avançadas
+- [ ] List comprehension e dict comprehension
+- [ ] Agregação de dados — filtragem, contagem, soma e agrupamento
+
 ### Orientação a Objetos (POO)
 - [ ] Classes e objetos
 - [ ] Herança e polimorfismo
@@ -109,6 +113,12 @@ manipulacao-de-arquivos/
     └── ex002/
 modulos-e-bibliotecas/
 └── ex001/                    # criação e importação de módulo próprio
+mini-projetos/
+└── gerenciador-de-biblioteca/   # sistema de biblioteca pessoal com persistência em JSON
+    └── core/
+        ├── arquivo.py
+        ├── logica.py
+        └── organizacao.py
 ```
 
 ---
@@ -121,6 +131,7 @@ modulos-e-bibliotecas/
 | [Modelagem de Dados em JSON](manipulacao-de-arquivos/modelagem-json/) | Exercícios | Modelagem de dados em formato JSON — contatos, produtos, pedidos, configurações e boas práticas de estrutura | Formato JSON, tipos de dados, modelagem de arrays e objetos | Concluído |
 | [Manipulação de Arquivos JSON](manipulacao-de-arquivos/manipulacao-em-json/) | Exercícios | Leitura e escrita de arquivos `.json` com a biblioteca `json`, incluindo conversão entre objetos Python e JSON | Biblioteca `json`, manipulação de arquivos, tratamento de erros | Concluído |
 | [Módulo Próprio — Saudação](modulos-e-bibliotecas) | Exercícios | Criação de módulos próprios e importações de módulos, importações de bibliotecas padrões e organizaçao de código | Criação de módulos, importação, organização de código | Concluído |
+| [Gerenciador de Biblioteca](mini-projetos/gerenciador-de-biblioteca/) | Mini-projeto | Sistema de biblioteca pessoal via terminal, com cadastro, listagem, busca por autor, marcação de leitura e geração de relatório estatístico, com persistência completa em arquivos JSON | Biblioteca `json`, modularização em pacote, tratamento de erros, validação de dados | Concluído |
 
 ---
 
