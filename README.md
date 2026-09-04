@@ -127,11 +127,11 @@ mini-projetos/
 
 | Exercício | Tipo | Descrição | Tópicos abordados | Status |
 |-----------|------|-----------|-------------------|--------|
-| [Agenda de Contatos](manipulacao-de-arquivos/manipulacao-em-txt/ex001/ex001.py) | Mini-projeto | Agenda simples via terminal com leitura, escrita e remoção de contatos em arquivo `.txt` | Manipulação de arquivos, funções, loops, tratamento de erros | Concluído |
+| [Agenda de Contatos](mini-projetos/agenda/agenda.py) | Mini-projeto | Agenda simples via terminal com leitura, escrita e remoção de contatos em arquivo `.txt` | Manipulação de arquivos, funções, loops, tratamento de erros | Concluído |
 | [Modelagem de Dados em JSON](manipulacao-de-arquivos/modelagem-json/) | Exercícios | Modelagem de dados em formato JSON — contatos, produtos, pedidos, configurações e boas práticas de estrutura | Formato JSON, tipos de dados, modelagem de arrays e objetos | Concluído |
 | [Manipulação de Arquivos JSON](manipulacao-de-arquivos/manipulacao-em-json/) | Exercícios | Leitura e escrita de arquivos `.json` com a biblioteca `json`, incluindo conversão entre objetos Python e JSON | Biblioteca `json`, manipulação de arquivos, tratamento de erros | Concluído |
-| [Módulo Próprio — Saudação](modulos-e-bibliotecas) | Exercícios | Criação de módulos próprios e importações de módulos, importações de bibliotecas padrões e organizaçao de código | Criação de módulos, importação, organização de código | Concluído |
-| [Gerenciador de Biblioteca](mini-projetos/gerenciador-de-biblioteca/) | Mini-projeto | Sistema de biblioteca pessoal via terminal, com cadastro, listagem, busca por autor, marcação de leitura e geração de relatório estatístico, com persistência completa em arquivos JSON | Biblioteca `json`, modularização em pacote, tratamento de erros, validação de dados | Concluído |
+| [Módulo Próprio — Saudação](modulos-e-bibliotecas) | Exercício | Criação de módulos próprios e importações de módulos, importações de bibliotecas padrões e organizaçao de código | Criação de módulos, importação, organização de código | Concluído |
+| [Gerenciador de Biblioteca](mini-projetos/biblioteca/) | Mini-projeto | Sistema de biblioteca pessoal via terminal, com cadastro, listagem, busca por autor, marcação de leitura e geração de relatório estatístico, com persistência completa em arquivos JSON | Biblioteca `json`, modularização em pacote, tratamento de erros, validação de dados | Concluído |
 
 ---
 
