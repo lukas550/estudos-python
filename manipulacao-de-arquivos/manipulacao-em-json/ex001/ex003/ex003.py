@@ -3,7 +3,8 @@ import json
 try:
     with open("usuarios.json", "r", encoding="utf-8") as arquivo:
         dados = json.load(arquivo)
-except FileNotFoundError, json.JSONDecodeError:
+except (FileNotFoundError, json.JSONDecodeError) as e:
+    print(f"Erro: {e}")
     dados = []
 
 def salvar_arquivo(id, nome, status):
